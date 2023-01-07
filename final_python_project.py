@@ -1,3 +1,6 @@
+# I completed this mini project on extracting files from a CSV for the final assessment of Code First Girls' 8-week kickstarter on Python and Apps.
+
+
 # Option 3: Using sales.csv file,
 # 1) read the data from the spreadsheet,
 # 2) Collect all of the sales from each month into a single list
